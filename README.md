@@ -1,2 +1,2 @@
 # Corn
-Download the exe file by clicking the green download button.
+Download the exe files by clicking the green download button and extracting the zip file.
